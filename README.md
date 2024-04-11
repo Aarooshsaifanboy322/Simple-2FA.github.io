@@ -1,2 +1,2 @@
-# Simple-2FA.github.io
-You can copy this repository. Please put the © sign after the repository name.
+# 2FA Simple website
+_Is allowed to copy:_ _Yes_
